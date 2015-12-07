@@ -2,4 +2,4 @@
 **Data Science course
 [link to Github](https://github.com)
 *bullet
-'inline code' and ''code blocks'''
+`inline code` and ```code blocks```
